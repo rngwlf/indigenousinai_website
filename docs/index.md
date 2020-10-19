@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Indigenous In AI
 ---
 
