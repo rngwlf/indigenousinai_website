@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Indigenous In AI
+title: Indigenous in AI
+project-name: Indigenous in AI
 ---
 
 # Indigenous in AI
