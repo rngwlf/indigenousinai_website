@@ -11,7 +11,7 @@ Indigenous In AI’s vision is to build an international community of Native, Ab
 ## NeurIPS 2020 Workshop
 
 * When: December 10th, 12pm PST
-* Where: (Details here)[https://neurips.cc/virtual/2020/public/affinity_workshop_19537.html]
+* Where: [Details here](https://neurips.cc/virtual/2020/public/affinity_workshop_19537.html)
 
 ### Schedule
 
