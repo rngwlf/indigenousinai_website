@@ -17,14 +17,11 @@ Indigenous In AI’s vision is to build an international community of Native, Ab
 ### Posters:
 
 * Scoring pronunciation accuracy via close introspection of a speech recognition recurrent neural network
-* * Caleb Moses, 
-* * Room 2 Booth 38
+  * Caleb Moses, Room 2 Booth 38
 * Automatic speech recognition with subword langauge models for an under-resourced indigenous language
-* * Robbie Jimmerson, 
-* * Room 2 Booth 35
+  * Robbie Jimmerson, Room 2 Booth 35
 * Improving Human-AI Collaboration by Quickly Adapting to Diverse Human Collaboration Preferences
-* * Austin Narcomey
-* * Room 6, Booth 158
+  * Austin Narcomey, Room 6, Booth 158
 
 ## Workshop
 
