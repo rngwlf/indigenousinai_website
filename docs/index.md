@@ -62,7 +62,7 @@ Indigenous In AI’s vision is to build an international community of Native, Ab
 
 |  | Caroline Running Wolf |
 | :---: | :--- |
-| ![caroline](./speakers/caroline.jpg){:width="150px} | Caroline Running Wolf (Crow), née Old Coyote, is a multilingual Cultural Acclimation Artist dedicated to supporting Indigenous language and culture vitality. She is currently pursuing her PhD in Anthropology at the University of British Columbia in Vancouver, Canada. Her research explores potential applications of immersive technologies (AR/VR/XR) and artificial intelligence to effectively enhance Indigenous language and culture reclamation.|
+| ![caroline](./speakers/caroline.jpg){:width="150px"} | Caroline Running Wolf (Crow), née Old Coyote, is a multilingual Cultural Acclimation Artist dedicated to supporting Indigenous language and culture vitality. She is currently pursuing her PhD in Anthropology at the University of British Columbia in Vancouver, Canada. Her research explores potential applications of immersive technologies (AR/VR/XR) and artificial intelligence to effectively enhance Indigenous language and culture reclamation.|
 
   
 |  | Jason Lewis |
