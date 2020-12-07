@@ -40,12 +40,12 @@ Indigenous In AI’s vision is to build an international community of Native, Ab
 
 * 12:00 - 12:10 Welcome 
 * 12:10 – 12:40 Indigenous ASR - recognising more than speech
-Keoni Mahelona, Peter-Lucas K Jones
+  * Keoni Mahelona, Peter-Lucas K Jones
 * 12:40 – 12:50 QA
 * 12:50 – 13:20 Indigenous Data Sovereignty Breakout
-Caroline Running Wolf
+  * Caroline Running Wolf
 * 13:20 – 13:50 Indigenous Technological Sovereignty
-Jason Lewis
+  * Jason Lewis
 * 13:50 – 14:00 QA
 * 14:00 – 14:10 Closing Announcements
 * 14:10 – 15:00 Virtual Social Gathering
