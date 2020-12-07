@@ -67,7 +67,7 @@ Indigenous In AI’s vision is to build an international community of Native, Ab
   
 |  | Jason Lewis |
 | :---: | :--- |
-| ![jason](speakers/jason.png){:width="150px"}|.|
+| ![jason](speakers/jason.png){:width="150px"}|Jason Edward Lewis is a digital media theorist, poet, and software designer. He founded Obx Laboratory for Experimental Media, where he conducts research/creation projects exploring computation as a creative and cultural material. He directs the Initiative for Indigenous Futures, and co-directs the Indigenous Futures Research Centre, the Indigenous Protocol and AI Workshops, the Aboriginal Territories in Cyberspace research network, and the Skins Workshops on Aboriginal Storytelling and Video Game Design. Lewis is deeply committed to developing intriguing new forms of expression by working on conceptual, critical, creative and technical levels simultaneously. He has worked in a range of industrial research settings, including Interval Research, US West's Advanced Technology Group, and the Institute for Research on Learning, and, at the turn of the century, he founded and ran a research studio for the venture capital firm Arts Alliance. Lewis is the University Research Chair in Computational Media and the Indigenous Future Imaginary as well as Professor of Computation Arts at Concordia University, Montreal. Born and raised in northern California, Lewis is Hawaiian and Samoan.|
 
 ### Organizers
 
