@@ -42,9 +42,9 @@ Indigenous In AI’s vision is to build an international community of Native, Ab
 * 12:00 - 12:10 Welcome 
 * 12:10 – 12:40 **Indigenous ASR - recognising more than speech**
   * Keoni Mahelona, Peter-Lucas K Jones
-  * [papareo.nz](papareo.nz)
-  * [koreromaori.com](koreromaori.com)
-  * [tehiku.nz](tehiku.nz)
+  * [papareo.nz](https://papareo.nz)
+  * [koreromaori.com](https://koreromaori.com)
+  * [tehiku.nz](https://tehiku.nz)
 
 * 12:40 – 12:50 QA
 * 12:50 – 13:20 **Indigenous Data Sovereignty** Breakout Session
