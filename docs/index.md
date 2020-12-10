@@ -10,7 +10,7 @@ Indigenous In AI’s vision is to build an international community of Native, Ab
 
 ## Sign up for updates
 
-[Google Form](https://forms.gle/44M4NrnvazVbjo9VA)
+### [Google Form](https://forms.gle/44M4NrnvazVbjo9VA)
 
 # NeurIPS 2020 Events
 
@@ -51,9 +51,9 @@ Indigenous In AI’s vision is to build an international community of Native, Ab
   * Caroline Running Wolf
 * 13:20 – 13:50 **Indigenous Technological Sovereignty**
   * Jason Lewis
-  * http://www.indigenous-ai.net/position-paper
-  * https://jods.mitpress.mit.edu/pub/lewis-arista-pechawis-kite/release/1
-  * http://www.indigenousfutures.net
+  * [Indigenous AI Position Paper](http://www.indigenous-ai.net/position-paper)
+  * [Making Kin with the Machines](https://jods.mitpress.mit.edu/pub/lewis-arista-pechawis-kite/release/1)
+  * [Initiative for Indigenous Futures](http://www.indigenousfutures.net)
 * 13:50 – 14:00 QA
 * 14:00 – 14:10 Closing Announcements
 * 14:10 – 15:00 Virtual Social Gathering
