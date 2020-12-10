@@ -50,7 +50,7 @@ Indigenous In AI’s vision is to build an international community of Native, Ab
 * 12:50 – 13:20 **Indigenous Data Sovereignty** Breakout Session
   * Caroline Running Wolf
 * 13:20 – 13:50 **Indigenous Technological Sovereignty**
-  * Jason Lewis
+  * Jason Edward Lewis
   * [Indigenous AI Position Paper](http://www.indigenous-ai.net/position-paper)
   * [Making Kin with the Machines](https://jods.mitpress.mit.edu/pub/lewis-arista-pechawis-kite/release/1)
   * [Initiative for Indigenous Futures](http://www.indigenousfutures.net)
