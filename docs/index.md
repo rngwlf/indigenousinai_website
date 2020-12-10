@@ -31,7 +31,7 @@ Indigenous In AI’s vision is to build an international community of Native, Ab
 
 ### Start: 12:00 PM PST
 
-### [Virtual Workshop Page](https://neurips.cc/virtual/2020/public/affinity_workshop_19537.html)
+### [Virtual Workshop Page](https://neurips.cc/virtual/2020/protected/affinity_workshop_19537.html)
 
 ### Schedule Thursday December 10th
 
