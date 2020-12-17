@@ -10,7 +10,7 @@ Indigenous In AI’s vision is to build an international community of Native, Ab
 
 ## Sign up for updates
 
-### [Google Form](https://forms.gle/44M4NrnvazVbjo9VA)
+### [Google Form](https://forms.gle/zCryY94kiwnHz2Lp8)
 
 # NeurIPS 2020 Events
 
