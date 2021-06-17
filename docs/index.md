@@ -14,7 +14,7 @@ Indigenous In AI’s vision is to build an international community of Native, Ab
 
 ## Events
 
-* [ICML 2021]({% link icml2021.md %}) 
+* [ICML 2021 Wednesday July 21 1pm-3pm PDT ]({% link icml2021.md %}) 
 * NeurIPS 2021 - TBA
 * [NeurIPS 2020]({% link neurips2020.md %})
 
