@@ -14,9 +14,9 @@ Indigenous In AI’s vision is to build an international community of Native, Ab
 
 ## Events
 
-* [ICML 2021](% post_url icml2021 %) 
+* [ICML 2021]({% link icml2021.md %}) 
 * NeurIPS 2021 - TBA
-* [NeurIPS 2020](% post_url neurips2020 %)
+* [NeurIPS 2020]({% link neurips2020.md %})
 
 
 ### Contact
