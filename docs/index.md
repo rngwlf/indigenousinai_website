@@ -10,7 +10,7 @@ Indigenous In AI’s vision is to build an international community of Native, Ab
 
 ## Sign up for updates
 
-### [Google Form](https://forms.gle/zCryY94kiwnHz2Lp8)
+### [To get an Invite to Join our Slack Channel fillout this Google Form](https://forms.gle/2zPEAz47csA1xNHN6)
 
 ## Events
 
