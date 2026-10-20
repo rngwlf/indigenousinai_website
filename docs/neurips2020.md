@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: NeurIPS 2020
 
 ---
 
@@ -24,8 +24,8 @@ Indigenous In AI’s vision is to build an international community of Native, Ab
 
 * Scoring pronunciation accuracy via close introspection of a speech recognition recurrent neural network
   * Caleb Moses, Room 2 Booth 38
-* Automatic speech recognition with subword langauge models for an under-resourced indigenous language
-  * Robbie Jimmerson, Room 2 Booth 35
+* Automatic speech recognition with subword language models for an under-resourced indigenous language
+  * Robbie Jimerson, Room 2 Booth 35
 * Improving Human-AI Collaboration by Quickly Adapting to Diverse Human Collaboration Preferences
   * Austin Narcomey, Room 6, Booth 158
 
